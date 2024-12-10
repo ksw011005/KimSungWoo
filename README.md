@@ -11,7 +11,7 @@
 
 제가 만든 프로그램은 불법이든 합법이든 콘텐츠를 저장할 수 있게 해주는 프로그램입니다.
 
-다운로드하고 싶은 영상이나 오디오, 이미지의 URL을 적고 파일 이름을 적으면 됩니다.
+다운로드하고 싶은 영상이나 오디오, 이미지의 URL을 적고 파일 이름, 저장할 파일 경로를 적으면 됩니다.
 
 혹시라도 로그인이 필요한 사이트의 경우 아이디와 비밀번호를 적어주시면 됩니다.
 
@@ -22,9 +22,10 @@
 # 실행 모습입니다.
 
 
-![image](https://github.com/user-attachments/assets/42fbf2c0-7aa8-4e05-8083-599ddfaad7bd)
+![image](https://github.com/user-attachments/assets/18d3a2a8-a175-4d28-a404-781270845d11)
 
-다음과 같이 URL과 파일 이름을 적어주고 오디오 다운로드를 눌러주시면
+
+다음과 같이 URL과 파일 이름, 경로를 적어주고 오디오 다운로드를 눌러주시면
 
 
 ![image](https://github.com/user-attachments/assets/87b93b6f-e226-4474-a34b-6b14554c043d)
