@@ -1,9 +1,4 @@
 # 20101210 김성우
 
-```c
-#include <stdio.h>
+![image](https://github.com/user-attachments/assets/dfed18bd-b7fb-4a55-86c3-309b9f28d51f)
 
-int main(){
-printf("잘부탁드립니다!")
-}
-```
