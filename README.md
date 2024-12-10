@@ -7,20 +7,31 @@
 
 나만 간직하기만 하면 아무도 모르게 소장할 수 있습니다. 설령 그것이 불법이더라도요
 
+저는 음원이 없는 노래나 라이브를 너무 듣고 싶어서 이 프로그램을 만들게 됐습니다.
+
 제가 만든 프로그램은 불법이든 합법이든 콘텐츠를 저장할 수 있게 해주는 프로그램입니다.
 
-만약 끝까지 읽고나면 교수님도 놀라실 수도 있습니다. 부디 아래쪽까지 읽어주세요!
-
-# 실행 모습입니다.
-![image](https://github.com/user-attachments/assets/dfed18bd-b7fb-4a55-86c3-309b9f28d51f)
-
-저 같은 경우 처음에는 유튜브에서 음원이 없는 노래를 다운 받을 생각이였습니다.
-근데 너무 뻔한거 같아서 과기대 온라인 강의를 불법 다운로드 해보기로 마음 먹었습니다.
-
-![image](https://github.com/user-attachments/assets/803f4df9-b4eb-4ad2-8f91-7adf9619f654)
-
 다운로드하고 싶은 영상이나 오디오, 이미지의 URL을 적고 파일 이름을 적으면 됩니다.
+
 혹시라도 로그인이 필요한 사이트의 경우 아이디와 비밀번호를 적어주시면 됩니다.
+
+직접 한번 해보겠습니다.
+
+
+![image](https://github.com/user-attachments/assets/dfed18bd-b7fb-4a55-86c3-309b9f28d51f)
+# 실행 모습입니다.
+
+
+![image](https://github.com/user-attachments/assets/42fbf2c0-7aa8-4e05-8083-599ddfaad7bd)
+
+다음과 같이 URL과 파일 이름을 적어주고 오디오 다운로드를 눌러주시면
+
+
+![image](https://github.com/user-attachments/assets/87b93b6f-e226-4474-a34b-6b14554c043d)
+
+잘 다운로드된 모습을 볼 수 있습니다.
+
+
 
 
 
