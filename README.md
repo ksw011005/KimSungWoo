@@ -22,7 +22,8 @@
 # 실행 모습입니다.
 
 
-![image](https://github.com/user-attachments/assets/18d3a2a8-a175-4d28-a404-781270845d11)
+![image](https://github.com/user-attachments/assets/97ca2e7b-d61a-42f5-ab04-1471b2007ecd)
+
 
 
 다음과 같이 URL과 파일 이름, 경로를 적어주고 오디오 다운로드를 눌러주시면
