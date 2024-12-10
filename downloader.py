@@ -61,7 +61,7 @@ def create_gui():
     window.title("불법 다운로드")
 
     # 입력 필드들
-    url_label = tk.Label(window, text="URL을 입력하세요:")
+    url_label = tk.Label(window, text="비디오 또는 오디오 URL을 입력하세요:")
     url_label.pack(pady=5)
     url_entry = tk.Entry(window, width=50)
     url_entry.pack(pady=5)
