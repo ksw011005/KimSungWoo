@@ -19,7 +19,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/dfed18bd-b7fb-4a55-86c3-309b9f28d51f)
-# 실행 모습입니다.
+
+처음 실행 모습입니다.
 
 
 ![image](https://github.com/user-attachments/assets/97ca2e7b-d61a-42f5-ab04-1471b2007ecd)
